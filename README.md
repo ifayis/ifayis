@@ -2,7 +2,7 @@
 
 💻 Frontend Developer | HTML | CSS | JavaScript | React | Redux <br>
 🚀 Passionate about building web apps  <br>
-🌱 Currently learning: .Net
+🌱 Currently learning: .net
 
 ---
 
