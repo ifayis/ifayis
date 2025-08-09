@@ -40,6 +40,13 @@
 
 ---
 
+### 🪑 ZENTRO app
+- 🛒 Built with React, tailwind css, and `json-server`
+- 🔄 Some apps like counter, todo app, etc...
+- 🌐 [Live Site](https://zentro-app-xi.vercel.app/) | [Code](https://github.com/ifayis/zentro-app)
+
+---
+
 ## 🔗 Connect with Me
 📧 mohammedfayis135@gmail.com <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fayis-kv)
