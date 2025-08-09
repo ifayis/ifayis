@@ -41,8 +41,9 @@
 ---
 
 ### 🪑 ZENTRO app
-- 🛒 Built with React, tailwind css, and `json-server`
+- 🛒 Built with React, Tailwind css, and `json-server`
 - 🔄 Some apps like counter, todo app, etc...
+- 🖌️ designed UI with Figma
 - 🌐 [Live Site](https://zentro-app-xi.vercel.app/) | [Code](https://github.com/ifayis/zentro-app)
 
 ---
