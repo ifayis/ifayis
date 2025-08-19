@@ -36,17 +36,13 @@
 ## 🚀 Projects
 
 ### 🪑 Furniture E-commerce Site
-- 🛒 Built with React, css, and `json-server`
-- 🔄 Features cart, checkout, localStorage-based order saving
-- 💳 Integrated dummy payment flow with address validation
+
 - 🌐 [Live Site](https://furniture-shop-theta-one.vercel.app/) | [Code](https://github.com/ifayis/furniture-shop)
 
 ---
 
 ### 🪑 ZENTRO app
-- 🛒 Built with React, Tailwind css, and `json-server`
-- 🔄 Some apps like counter, todo app, etc...
-- 🖌️ designed UI with Figma
+
 - 🌐 [Live Site](https://zentro-app-xi.vercel.app/) | [Code](https://github.com/ifayis/zentro-app)
 
 ---
