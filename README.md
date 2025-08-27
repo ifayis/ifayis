@@ -1,8 +1,8 @@
 # 👋 Hi, I'm fayis
 
-💻 Frontend Developer | HTML | CSS | JavaScript | React | Redux <br>
+💻 Frontend Developer | React | .NET <br>
 🚀 Passionate about building web apps  <br>
-🌱 Currently learning: .net
+🌱 Currently learning: .NET
 
 ---
 
