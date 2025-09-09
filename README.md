@@ -1,6 +1,6 @@
 # 👋 Hi, I'm fayis
 
-💻 Frontend Developer | React | .NET <br>
+💻 Web Developer | React | .NET <br>
 🚀 Passionate about building web apps  <br>
 🌱 Currently learning: .NET
 
