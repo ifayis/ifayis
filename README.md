@@ -38,7 +38,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iFayis&show_icons=true&locale=en&theme=gotham" alt="ifayis" width="45%" />
 <img src="https://leetcard.jacoblin.cool/iFayis?theme=dark&font=ABeeZee" width="45%" />
 </p>
 
