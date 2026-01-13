@@ -2,7 +2,6 @@
 
 💻 Web Developer | React | .NET <br>
 🚀 Passionate about building web apps  <br>
-🌱 Currently learning: ADO.Net
 
 ---
 
