@@ -1,7 +1,6 @@
 # 👋 Hi, I'm fayis
 
-💻 Web Developer | React | .NET <br>
-🚀 Passionate about building web apps  <br>
+💻 Software Developer | React | .NET <br>
 
 ---
 
@@ -57,5 +56,5 @@
 ---
 
 ## 🔗 Connect with Me
-📧 mohammedfayis135@gmail.com <br><br>
+📧 fayisdev30@gmail.com <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fayis-kv)
