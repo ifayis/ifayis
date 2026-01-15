@@ -49,7 +49,7 @@
 
 ---
 
-### 🪑 ZENTRO app
+### 🎮 ZENTRO app
 
 - 🌐 [Live Site](https://zentro-app-xi.vercel.app/) | [Code](https://github.com/ifayis/zentro-app)
 
