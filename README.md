@@ -1,6 +1,6 @@
 # 👋 Hi, I'm fayis
 
-💻 Software Developer | React | .NET <br>
+💻 Software Developer | .NET | React <br>
 
 ---
 
